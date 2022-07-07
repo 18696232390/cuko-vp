@@ -19,6 +19,8 @@
         <module>cuko-cloud-component-activiti</module>
         <module>cuko-cloud-component-mongo</module>
         <module>cuko-cloud-component-vue</module>
+        <module>cuko-cloud-component-cbatis</module>
+        <module>cuko-cloud-component-pay</module>
     </modules>
 
     <properties>
