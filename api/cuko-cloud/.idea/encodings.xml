@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cuko-cloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-activiti/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-activiti/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-cbatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-cbatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-email/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-mongo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-mongo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-nlp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-nlp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-pay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-vue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-vue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-wechat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/cuko-cloud-component-wechat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-component/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-openfeign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-openfeign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-service/cuko-cloud-service-system-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-service/cuko-cloud-service-system-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-test/cuko-cloud-test-nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-test/cuko-cloud-test-nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-test/cuko-cloud-test-sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-test/cuko-cloud-test-sentinel/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
