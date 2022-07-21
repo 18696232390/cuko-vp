@@ -25,6 +25,8 @@
     <file url="file://$PROJECT_DIR$/cuko-cloud-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cuko-cloud-openfeign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cuko-cloud-openfeign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-service/cuko-cloud-service-gatekeeper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cuko-cloud-service/cuko-cloud-service-gatekeeper/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cuko-cloud-service/cuko-cloud-service-system-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cuko-cloud-service/cuko-cloud-service-system-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cuko-cloud-service/src/main/java" charset="UTF-8" />

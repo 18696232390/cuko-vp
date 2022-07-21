@@ -16,6 +16,7 @@
         <module name="cuko-cloud-gateway" />
         <module name="cuko-cloud-component-nlp" />
         <module name="cuko-cloud-test-sentinel" />
+        <module name="cuko-cloud-service-gatekeeper" />
         <module name="cuko-cloud-component-cbatis" />
         <module name="cuko-cloud-component-email" />
         <module name="cuko-cloud-test-nacos" />

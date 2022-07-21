@@ -1,0 +1,5 @@
+org\cuko\cloud\service\gatekeeper\config\RouterConfig.class
+org\cuko\cloud\service\gatekeeper\config\AxiosCorsFilter.class
+org\cuko\cloud\service\gatekeeper\config\InterceptorConfig.class
+org\cuko\cloud\service\gatekeeper\config\ClassCorsConfig.class
+org\cuko\cloud\service\gatekeeper\CukoCloudServiceGatekeeper.class
